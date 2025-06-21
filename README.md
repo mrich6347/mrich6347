@@ -7,3 +7,5 @@ Full Stack Software Engineer with 7+ years of experience building scalable appli
 ## 💻 Current Side Project
 
 I am currently building out budgeting software that closely resembles the popular YNAB (You need a budget), but with even more features I have been wanting for a long time. With the bonus of no longer having to pay $17 a month!
+
+Check it out here -> [budgetfriendlybudget.com](https://budgetfriendlybudget.com)
