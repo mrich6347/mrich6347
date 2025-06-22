@@ -8,13 +8,6 @@ I am currently building out budgeting software that closely resembles the popula
 
 Check it out here -> [budgetfriendlybudget.com](https://budgetfriendlybudget.com)
 
-
-<div align="center">
-  <img src="./budget.png" alt="Budget Dashboard" width="30%">
-  <img src="./shared-goals.png" alt="Shared Goals" width="30%">
-  <img src="./transactions.png" alt="Transactions" width="30%">
-</div>
-
 ## 🛠️ Technologies I've been known to use
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
