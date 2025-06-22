@@ -1,17 +1,21 @@
 # Hey there! 👋 I'm Matt
 
 ## 🚀 About Me
-
 Full Stack Software Engineer with 7+ years of experience building scalable applications and solving complex problems. I love playing around with the latest technologies and exploring different AI tools.
 
 ## 💻 Current Side Project
-
 I am currently building out budgeting software that closely resembles the popular YNAB (You need a budget), but with even more features I have been wanting for a long time. With the bonus of no longer having to pay $17 a month!
 
 Check it out here -> [budgetfriendlybudget.com](https://budgetfriendlybudget.com)
 
-## 🛠️ Technologies I've been known to use
 
+<div align="center">
+  <img src="./budget.png" alt="Budget Dashboard" width="30%">
+  <img src="./shared-goals.png" alt="Shared Goals" width="30%">
+  <img src="./transactions.png" alt="Transactions" width="30%">
+</div>
+
+## 🛠️ Technologies I've been known to use
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
